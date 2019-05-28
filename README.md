@@ -33,6 +33,7 @@ On which edge of the editor should the tool bar appear. Possible options:
 ### Icon size
 
 *   Very Small *(12px)*
+*   Smaller *(14px)*
 *   Small *(16px)*
 *   Big *(24px)*
 *   Large *(32px)*
